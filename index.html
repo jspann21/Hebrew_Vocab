@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hebrew Word Frequency</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .controls {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        .range {
+            display: inline-block;
+            margin: 10px 20px;
+        }
+
+        .range h3 {
+            color: #34495e;
+            margin-bottom: 10px;
+        }
+
+        select {
+            padding: 8px;
+            margin-right: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #3498db;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+
+        #loading {
+            text-align: center;
+            padding: 20px;
+            font-size: 18px;
+            color: #7f8c8d;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+
+        .vocabulary-list {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+
+        .root-entry {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 15px;
+        }
+
+        .root-entry:last-child {
+            border-bottom: none;
+        }
+
+        .root-header {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+
+        .root-header b {
+            color: #2c3e50;
+            font-size: 1.2em;
+        }
+
+        .forms-list {
+            list-style: none;
+            padding-left: 20px;
+            margin: 0;
+        }
+
+        .form-entry {
+            padding: 8px 0;
+            display: flex;
+            align-items: baseline;
+            gap: 10px;
+        }
+
+        .form {
+            font-size: 1.1em;
+            color: #34495e;
+            min-width: 100px;
+        }
+
+        .count {
+            color: #7f8c8d;
+            font-size: 0.9em;
+            min-width: 60px;
+        }
+
+        .glosses {
+            color: #2c3e50;
+        }
+
+        .summary {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            color: #2c3e50;
+            font-size: 1.1em;
+            text-align: center;
+        }
+
+        .error {
+            background-color: #fee;
+            color: #c0392b;
+            padding: 15px;
+            border-radius: 4px;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .total-count {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 768px) {
+            .range {
+                display: block;
+                margin: 10px 0;
+            }
+
+            .form-entry {
+                flex-direction: column;
+                gap: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Hebrew Word Frequency in Range</h1>
+    <div class="controls">
+        <div class="range">
+            <h3>From:</h3>
+            <select id="from-book"></select>
+            <select id="from-chapter"></select>
+        </div>
+        <div class="range">
+            <h3>To:</h3>
+            <select id="to-book"></select>
+            <select id="to-chapter"></select>
+        </div>
+        <button onclick="generateFrequency()">Generate Frequency List</button>
+    </div>
+    <div id="loading" style="display: none;">Loading...</div>
+    <div id="results"></div>
+    <script src="script.js" defer></script>
+</body>
+</html>

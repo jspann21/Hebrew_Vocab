@@ -1,0 +1,4904 @@
+{
+    "1": [
+        {
+            "book_chapter_verse": "275501",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לַ",
+                "לַ",
+                "ל",
+                "ל"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 15641,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275501",
+            "pos_tag": {
+                "pdp": "art"
+            },
+            "word_forms": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "gloss": "the",
+            "freq_lex": 30386,
+            "freq_occ": 6487,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275501",
+            "pos_tag": {
+                "pdp": "subs",
+                "vt": "ptca",
+                "vs": "piel",
+                "st": "a"
+            },
+            "word_forms": [
+                "מְנַצֵּ֥חַ ",
+                "מְנַצֵּחַ",
+                "מנצח",
+                "מנצח"
+            ],
+            "gloss": "prevail",
+            "freq_lex": 65,
+            "freq_occ": 56,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275501",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בִּ",
+                "בִּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275501",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "נְגִינֹ֗ת ",
+                "נְגִינֹת",
+                "נגינת",
+                "נגינת"
+            ],
+            "gloss": "music",
+            "freq_lex": 14,
+            "freq_occ": 5,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275501",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מַשְׂכִּ֥יל ",
+                "מַשְׂכִּיל",
+                "משכיל",
+                "משׂכיל"
+            ],
+            "gloss": "<uncertain>",
+            "freq_lex": 14,
+            "freq_occ": 28,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275501",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לְ",
+                "לְ",
+                "ל",
+                "ל"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 15641,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275501",
+            "pos_tag": {
+                "pdp": "nmpr",
+                "st": "a"
+            },
+            "word_forms": [
+                "דָוִֽד׃",
+                "דָוִד",
+                "דוד",
+                "דוד"
+            ],
+            "gloss": "David",
+            "freq_lex": 1075,
+            "freq_occ": 800,
+            "language_status": "none",
+            "mitchel": "1B"
+        }
+    ],
+    "2": [
+        {
+            "book_chapter_verse": "275502",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impv",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "הַאֲזִ֣ינָה ",
+                "הַאֲזִינָה",
+                "האזינה",
+                "האזינה"
+            ],
+            "gloss": "listen",
+            "freq_lex": 41,
+            "freq_occ": 16,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275502",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֱ֭לֹהִים ",
+                "אֱלֹהִים",
+                "אלהים",
+                "אלהים"
+            ],
+            "gloss": "god(s)",
+            "freq_lex": 2601,
+            "freq_occ": 1177,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275502",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "תְּפִלָּתִ֑י ",
+                "תְּפִלָּתִי",
+                "תפלתי",
+                "תפלתי"
+            ],
+            "gloss": "prayer",
+            "freq_lex": 77,
+            "freq_occ": 23,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275502",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275502",
+            "pos_tag": {
+                "pdp": "nega"
+            },
+            "word_forms": [
+                "אַל־",
+                "אַל",
+                "אל",
+                "אל"
+            ],
+            "gloss": "not",
+            "freq_lex": 726,
+            "freq_occ": 4839,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275502",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hit",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "תִּ֝תְעַלַּ֗ם ",
+                "תִּתְעַלַּם",
+                "תתעלם",
+                "תתעלם"
+            ],
+            "gloss": "hide",
+            "freq_lex": 28,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275502",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מִ",
+                "מִ",
+                "מ",
+                "מ"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 6236,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275502",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "תְּחִנָּתִֽי׃",
+                "תְּחִנָּתִי",
+                "תחנתי",
+                "תחנתי"
+            ],
+            "gloss": "supplication",
+            "freq_lex": 25,
+            "freq_occ": 7,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "3": [
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impv",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "הַקְשִׁ֣יבָה ",
+                "הַקְשִׁיבָה",
+                "הקשיבה",
+                "הקשׁיבה"
+            ],
+            "gloss": "give attention",
+            "freq_lex": 46,
+            "freq_occ": 10,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לִּ֣י ",
+                "לִּי",
+                "לי",
+                "לי"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 752,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וַ",
+                "וַ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impv",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "עֲנֵ֑נִי ",
+                "עֲנֵנִי",
+                "ענני",
+                "ענני"
+            ],
+            "gloss": "answer",
+            "freq_lex": 316,
+            "freq_occ": 22,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אָרִ֖יד ",
+                "אָרִיד",
+                "אריד",
+                "אריד"
+            ],
+            "gloss": "roam",
+            "freq_lex": 3,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְּ",
+                "בְּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "שִׂיחִ֣י ",
+                "שִׂיחִי",
+                "שיחי",
+                "שׂיחי"
+            ],
+            "gloss": "concern",
+            "freq_lex": 14,
+            "freq_occ": 9,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275503",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אָהִֽימָה׃",
+                "אָהִימָה",
+                "אהימה",
+                "אהימה"
+            ],
+            "gloss": "stir",
+            "freq_lex": 6,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "4": [
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מִ",
+                "מִ",
+                "מ",
+                "מ"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 6236,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "c"
+            },
+            "word_forms": [
+                "קֹּ֤ול ",
+                "קֹּול",
+                "קול",
+                "קול"
+            ],
+            "gloss": "sound",
+            "freq_lex": 505,
+            "freq_occ": 330,
+            "language_status": "none",
+            "mitchel": "2A"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "subs",
+                "vt": "ptca",
+                "vs": "qal",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֹויֵ֗ב ",
+                "אֹויֵב",
+                "אויב",
+                "אויב"
+            ],
+            "gloss": "be hostile",
+            "freq_lex": 283,
+            "freq_occ": 52,
+            "language_status": "none",
+            "mitchel": "2C"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מִ",
+                "מִ",
+                "מ",
+                "מ"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 6236,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "c"
+            },
+            "word_forms": [
+                "פְּנֵ֣י ",
+                "פְּנֵי",
+                "פני",
+                "פני"
+            ],
+            "gloss": "face",
+            "freq_lex": 2127,
+            "freq_occ": 1325,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "c"
+            },
+            "word_forms": [
+                "עָקַ֣ת ",
+                "עָקַת",
+                "עקת",
+                "עקת"
+            ],
+            "gloss": "pressure",
+            "freq_lex": 1,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "רָשָׁ֑ע ",
+                "רָשָׁע",
+                "רשע",
+                "רשׁע"
+            ],
+            "gloss": "guilty",
+            "freq_lex": 262,
+            "freq_occ": 149,
+            "language_status": "none",
+            "mitchel": "2D"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "כִּי־",
+                "כִּי",
+                "כי",
+                "כי"
+            ],
+            "gloss": "that",
+            "freq_lex": 4483,
+            "freq_occ": 4484,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "יָמִ֥יטוּ ",
+                "יָמִיטוּ",
+                "ימיטו",
+                "ימיטו"
+            ],
+            "gloss": "totter",
+            "freq_lex": 36,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "עָלַ֥י ",
+                "עָלַי",
+                "עלי",
+                "עלי"
+            ],
+            "gloss": "upon",
+            "freq_lex": 5766,
+            "freq_occ": 291,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אָ֝֗וֶן ",
+                "אָוֶן",
+                "און",
+                "און"
+            ],
+            "gloss": "wickedness",
+            "freq_lex": 78,
+            "freq_occ": 77,
+            "language_status": "none",
+            "mitchel": "4C"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וּ",
+                "וּ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְ",
+                "בְ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אַ֥ף ",
+                "אַף",
+                "אף",
+                "אף"
+            ],
+            "gloss": "nose",
+            "freq_lex": 277,
+            "freq_occ": 226,
+            "language_status": "none",
+            "mitchel": "2C"
+        },
+        {
+            "book_chapter_verse": "275504",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "יִשְׂטְמֽוּנִי׃",
+                "יִשְׂטְמוּנִי",
+                "ישטמוני",
+                "ישׂטמוני"
+            ],
+            "gloss": "bear grudge",
+            "freq_lex": 6,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "5": [
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "לִ֭בִּי ",
+                "לִבִּי",
+                "לבי",
+                "לבי"
+            ],
+            "gloss": "heart",
+            "freq_lex": 601,
+            "freq_occ": 103,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יָחִ֣יל ",
+                "יָחִיל",
+                "יחיל",
+                "יחיל"
+            ],
+            "gloss": "have labour pain, to cry",
+            "freq_lex": 40,
+            "freq_occ": 5,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְּ",
+                "בְּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "קִרְבִּ֑י ",
+                "קִרְבִּי",
+                "קרבי",
+                "קרבי"
+            ],
+            "gloss": "interior",
+            "freq_lex": 227,
+            "freq_occ": 14,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "c"
+            },
+            "word_forms": [
+                "אֵימֹ֥ות ",
+                "אֵימֹות",
+                "אימות",
+                "אימות"
+            ],
+            "gloss": "fright",
+            "freq_lex": 17,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מָ֝֗וֶת ",
+                "מָוֶת",
+                "מות",
+                "מות"
+            ],
+            "gloss": "death",
+            "freq_lex": 161,
+            "freq_occ": 199,
+            "language_status": "none",
+            "mitchel": "1C"
+        },
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "נָפְל֥וּ ",
+                "נָפְלוּ",
+                "נפלו",
+                "נפלו"
+            ],
+            "gloss": "fall",
+            "freq_lex": 434,
+            "freq_occ": 49,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275505",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "עָלָֽי׃",
+                "עָלָי",
+                "עלי",
+                "עלי"
+            ],
+            "gloss": "upon",
+            "freq_lex": 5766,
+            "freq_occ": 291,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "6": [
+        {
+            "book_chapter_verse": "275506",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "יִרְאָ֣ה ",
+                "יִרְאָה",
+                "יראה",
+                "יראה"
+            ],
+            "gloss": "fear",
+            "freq_lex": 44,
+            "freq_occ": 90,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275506",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וָ֭",
+                "וָ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275506",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "רַעַד ",
+                "רַעַד",
+                "רעד",
+                "רעד"
+            ],
+            "gloss": "trembling",
+            "freq_lex": 2,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275506",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יָ֣בֹא ",
+                "יָבֹא",
+                "יבא",
+                "יבא"
+            ],
+            "gloss": "come",
+            "freq_lex": 2570,
+            "freq_occ": 364,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275506",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בִ֑י ",
+                "בִי",
+                "בי",
+                "בי"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 158,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275506",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וַ֝",
+                "וַ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275506",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "wayq",
+                "vs": "piel",
+                "gn": "f",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "תְּכַסֵּ֗נִי ",
+                "תְּכַסֵּנִי",
+                "תכסני",
+                "תכסני"
+            ],
+            "gloss": "cover",
+            "freq_lex": 152,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275506",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "פַּלָּצֽוּת׃",
+                "פַּלָּצוּת",
+                "פלצות",
+                "פלצות"
+            ],
+            "gloss": "shuddering",
+            "freq_lex": 4,
+            "freq_occ": 4,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "7": [
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וָ",
+                "וָ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "wayq",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אֹמַ֗ר ",
+                "אֹמַר",
+                "אמר",
+                "אמר"
+            ],
+            "gloss": "say",
+            "freq_lex": 5307,
+            "freq_occ": 1911,
+            "language_status": "quot",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "prin",
+                "gn": "unknown",
+                "nu": "unknown"
+            },
+            "word_forms": [
+                "מִֽי־",
+                "מִי",
+                "מי",
+                "מי"
+            ],
+            "gloss": "who",
+            "freq_lex": 423,
+            "freq_occ": 495,
+            "language_status": "none",
+            "mitchel": "2A"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יִתֶּן־",
+                "יִתֶּן",
+                "יתן",
+                "יתן"
+            ],
+            "gloss": "give",
+            "freq_lex": 2010,
+            "freq_occ": 323,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לִּ֣י ",
+                "לִּי",
+                "לי",
+                "לי"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 752,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֵ֭בֶר ",
+                "אֵבֶר",
+                "אבר",
+                "אבר"
+            ],
+            "gloss": "wing",
+            "freq_lex": 3,
+            "freq_occ": 3,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "כַּ",
+                "כַּ",
+                "כ",
+                "כ"
+            ],
+            "gloss": "as",
+            "freq_lex": 2902,
+            "freq_occ": 2878,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "art"
+            },
+            "word_forms": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "gloss": "the",
+            "freq_lex": 30386,
+            "freq_occ": 6487,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "יֹּונָ֗ה ",
+                "יֹּונָה",
+                "יונה",
+                "יונה"
+            ],
+            "gloss": "dove",
+            "freq_lex": 32,
+            "freq_occ": 45,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אָע֥וּפָה ",
+                "אָעוּפָה",
+                "אעופה",
+                "אעופה"
+            ],
+            "gloss": "fly",
+            "freq_lex": 24,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275507",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אֶשְׁכֹּֽנָה׃",
+                "אֶשְׁכֹּנָה",
+                "אשכנה",
+                "אשׁכנה"
+            ],
+            "gloss": "dwell",
+            "freq_lex": 129,
+            "freq_occ": 3,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "8": [
+        {
+            "book_chapter_verse": "275508",
+            "pos_tag": {
+                "pdp": "intj"
+            },
+            "word_forms": [
+                "הִ֭נֵּה ",
+                "הִנֵּה",
+                "הנה",
+                "הנה"
+            ],
+            "gloss": "behold",
+            "freq_lex": 1060,
+            "freq_occ": 905,
+            "language_status": "none",
+            "mitchel": "1B"
+        },
+        {
+            "book_chapter_verse": "275508",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אַרְחִ֣יק ",
+                "אַרְחִיק",
+                "ארחיק",
+                "ארחיק"
+            ],
+            "gloss": "be far",
+            "freq_lex": 57,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275508",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "infc",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "unknown",
+                "st": "a"
+            },
+            "word_forms": [
+                "נְדֹ֑ד ",
+                "נְדֹד",
+                "נדד",
+                "נדד"
+            ],
+            "gloss": "flee",
+            "freq_lex": 27,
+            "freq_occ": 6,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275508",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אָלִ֖ין ",
+                "אָלִין",
+                "אלין",
+                "אלין"
+            ],
+            "gloss": "lodge",
+            "freq_lex": 70,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275508",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בַּ",
+                "בַּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275508",
+            "pos_tag": {
+                "pdp": "art"
+            },
+            "word_forms": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "gloss": "the",
+            "freq_lex": 30386,
+            "freq_occ": 6487,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275508",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מִּדְבָּ֣ר ",
+                "מִּדְבָּר",
+                "מדבר",
+                "מדבר"
+            ],
+            "gloss": "desert",
+            "freq_lex": 270,
+            "freq_occ": 285,
+            "language_status": "none",
+            "mitchel": "2C"
+        },
+        {
+            "book_chapter_verse": "275508",
+            "pos_tag": {
+                "pdp": "intj"
+            },
+            "word_forms": [
+                "סֶֽלָה׃",
+                "סֶלָה",
+                "סלה",
+                "סלה"
+            ],
+            "gloss": "sela",
+            "freq_lex": 74,
+            "freq_occ": 75,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "9": [
+        {
+            "book_chapter_verse": "275509",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אָחִ֣ישָׁה ",
+                "אָחִישָׁה",
+                "אחישה",
+                "אחישׁה"
+            ],
+            "gloss": "make haste",
+            "freq_lex": 19,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275509",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מִפְלָ֣ט ",
+                "מִפְלָט",
+                "מפלט",
+                "מפלט"
+            ],
+            "gloss": "escape",
+            "freq_lex": 1,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275509",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לִ֑י ",
+                "לִי",
+                "לי",
+                "לי"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 752,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275509",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מֵ",
+                "מֵ",
+                "מ",
+                "מ"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 6236,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275509",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "ר֖וּחַ ",
+                "רוּחַ",
+                "רוח",
+                "רוח"
+            ],
+            "gloss": "wind",
+            "freq_lex": 378,
+            "freq_occ": 294,
+            "language_status": "none",
+            "mitchel": "2B"
+        },
+        {
+            "book_chapter_verse": "275509",
+            "pos_tag": {
+                "pdp": "adjv",
+                "vt": "ptca",
+                "vs": "qal",
+                "gn": "f",
+                "nu": "sg",
+                "st": "a"
+            },
+            "word_forms": [
+                "סֹעָ֣ה ",
+                "סֹעָה",
+                "סעה",
+                "סעה"
+            ],
+            "gloss": "calumniate",
+            "freq_lex": 1,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275509",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מִ",
+                "מִ",
+                "מ",
+                "מ"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 6236,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275509",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "סָּֽעַר׃",
+                "סָּעַר",
+                "סער",
+                "סער"
+            ],
+            "gloss": "storm",
+            "freq_lex": 8,
+            "freq_occ": 9,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "10": [
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impv",
+                "vs": "piel",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "בַּלַּ֣ע ",
+                "בַּלַּע",
+                "בלע",
+                "בלע"
+            ],
+            "gloss": "confuse",
+            "freq_lex": 6,
+            "freq_occ": 26,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "nmpr",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֲ֭דֹנָי  ",
+                "אֲדֹנָי",
+                "אדני",
+                "אדני"
+            ],
+            "gloss": "Lord",
+            "freq_lex": 438,
+            "freq_occ": 651,
+            "language_status": "none",
+            "mitchel": "1C"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impv",
+                "vs": "piel",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "פַּלַּ֣ג ",
+                "פַּלַּג",
+                "פלג",
+                "פלג"
+            ],
+            "gloss": "divide",
+            "freq_lex": 4,
+            "freq_occ": 10,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "pl",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "לְשֹׁונָ֑ם ",
+                "לְשֹׁונָם",
+                "לשונם",
+                "לשׁונם"
+            ],
+            "gloss": "tongue",
+            "freq_lex": 117,
+            "freq_occ": 18,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "כִּֽי־",
+                "כִּי",
+                "כי",
+                "כי"
+            ],
+            "gloss": "that",
+            "freq_lex": 4483,
+            "freq_occ": 4484,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "רָאִ֨יתִי ",
+                "רָאִיתִי",
+                "ראיתי",
+                "ראיתי"
+            ],
+            "gloss": "see",
+            "freq_lex": 1298,
+            "freq_occ": 100,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "חָמָ֖ס ",
+                "חָמָס",
+                "חמס",
+                "חמס"
+            ],
+            "gloss": "violence",
+            "freq_lex": 60,
+            "freq_occ": 54,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "רִ֣יב ",
+                "רִיב",
+                "ריב",
+                "ריב"
+            ],
+            "gloss": "law-case",
+            "freq_lex": 59,
+            "freq_occ": 38,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בָּ",
+                "בָּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "art"
+            },
+            "word_forms": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "gloss": "the",
+            "freq_lex": 30386,
+            "freq_occ": 6487,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275510",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "עִֽיר׃",
+                "עִיר",
+                "עיר",
+                "עיר"
+            ],
+            "gloss": "town",
+            "freq_lex": 1090,
+            "freq_occ": 634,
+            "language_status": "none",
+            "mitchel": "1B"
+        }
+    ],
+    "11": [
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "advb"
+            },
+            "word_forms": [
+                "יֹומָ֤ם ",
+                "יֹומָם",
+                "יומם",
+                "יומם"
+            ],
+            "gloss": "by day",
+            "freq_lex": 50,
+            "freq_occ": 53,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וָ",
+                "וָ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "advb",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a"
+            },
+            "word_forms": [
+                "לַ֗יְלָה ",
+                "לַיְלָה",
+                "לילה",
+                "לילה"
+            ],
+            "gloss": "night",
+            "freq_lex": 227,
+            "freq_occ": 215,
+            "language_status": "padv",
+            "mitchel": "2D"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "piel",
+                "gn": "m",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "יְסֹובְבֻ֥הָ ",
+                "יְסֹובְבֻהָ",
+                "יסובבה",
+                "יסובבה"
+            ],
+            "gloss": "turn",
+            "freq_lex": 161,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "עַל־",
+                "עַל",
+                "על",
+                "על"
+            ],
+            "gloss": "upon",
+            "freq_lex": 5766,
+            "freq_occ": 4237,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "f",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "חֹומֹתֶ֑יהָ ",
+                "חֹומֹתֶיהָ",
+                "חומתיה",
+                "חומתיה"
+            ],
+            "gloss": "wall",
+            "freq_lex": 133,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אָ֖וֶן ",
+                "אָוֶן",
+                "און",
+                "און"
+            ],
+            "gloss": "wickedness",
+            "freq_lex": 78,
+            "freq_occ": 77,
+            "language_status": "none",
+            "mitchel": "4C"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "עָמָ֣ל ",
+                "עָמָל",
+                "עמל",
+                "עמל"
+            ],
+            "gloss": "labour",
+            "freq_lex": 55,
+            "freq_occ": 44,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְּ",
+                "בְּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275511",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "f",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "קִרְבָּֽהּ׃",
+                "קִרְבָּהּ",
+                "קרבה",
+                "קרבה"
+            ],
+            "gloss": "interior",
+            "freq_lex": 227,
+            "freq_occ": 25,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "12": [
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "הַוֹּ֥ות ",
+                "הַוֹּות",
+                "הוות",
+                "הוות"
+            ],
+            "gloss": "destruction",
+            "freq_lex": 13,
+            "freq_occ": 8,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְּ",
+                "בְּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "f",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "קִרְבָּ֑הּ ",
+                "קִרְבָּהּ",
+                "קרבה",
+                "קרבה"
+            ],
+            "gloss": "interior",
+            "freq_lex": 227,
+            "freq_occ": 25,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְֽ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "nega"
+            },
+            "word_forms": [
+                "לֹא־",
+                "לֹא",
+                "לא",
+                "לא"
+            ],
+            "gloss": "not",
+            "freq_lex": 5167,
+            "freq_occ": 4996,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יָמִ֥ישׁ ",
+                "יָמִישׁ",
+                "ימיש",
+                "ימישׁ"
+            ],
+            "gloss": "depart",
+            "freq_lex": 20,
+            "freq_occ": 7,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מֵ֝",
+                "מֵ",
+                "מ",
+                "מ"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 6236,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "f",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "רְחֹבָ֗הּ ",
+                "רְחֹבָהּ",
+                "רחבה",
+                "רחבה"
+            ],
+            "gloss": "open place",
+            "freq_lex": 43,
+            "freq_occ": 24,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "תֹּ֣ךְ ",
+                "תֹּךְ",
+                "תך",
+                "תך"
+            ],
+            "gloss": "oppression",
+            "freq_lex": 4,
+            "freq_occ": 4,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וּ",
+                "וּ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275512",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מִרְמָֽה׃",
+                "מִרְמָה",
+                "מרמה",
+                "מרמה"
+            ],
+            "gloss": "deceit",
+            "freq_lex": 39,
+            "freq_occ": 37,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "13": [
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "כִּ֤י ",
+                "כִּי",
+                "כי",
+                "כי"
+            ],
+            "gloss": "that",
+            "freq_lex": 4483,
+            "freq_occ": 4484,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "nega"
+            },
+            "word_forms": [
+                "לֹֽא־",
+                "לֹא",
+                "לא",
+                "לא"
+            ],
+            "gloss": "not",
+            "freq_lex": 5167,
+            "freq_occ": 4996,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "subs",
+                "vt": "ptca",
+                "vs": "qal",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֹויֵ֥ב ",
+                "אֹויֵב",
+                "אויב",
+                "אויב"
+            ],
+            "gloss": "be hostile",
+            "freq_lex": 283,
+            "freq_occ": 52,
+            "language_status": "none",
+            "mitchel": "2C"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "piel",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יְחָֽרְפֵ֗נִי ",
+                "יְחָרְפֵנִי",
+                "יחרפני",
+                "יחרפני"
+            ],
+            "gloss": "reproach",
+            "freq_lex": 38,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אֶ֫שָּׂ֥א ",
+                "אֶשָּׂא",
+                "אשא",
+                "אשׂא"
+            ],
+            "gloss": "lift",
+            "freq_lex": 653,
+            "freq_occ": 39,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "nega"
+            },
+            "word_forms": [
+                "לֹֽא־",
+                "לֹא",
+                "לא",
+                "לא"
+            ],
+            "gloss": "not",
+            "freq_lex": 5167,
+            "freq_occ": 4996,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "subs",
+                "vt": "ptca",
+                "vs": "piel",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "מְ֭שַׂנְאִי ",
+                "מְשַׂנְאִי",
+                "משנאי",
+                "משׂנאי"
+            ],
+            "gloss": "hate",
+            "freq_lex": 146,
+            "freq_occ": 7,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "עָלַ֣י ",
+                "עָלַי",
+                "עלי",
+                "עלי"
+            ],
+            "gloss": "upon",
+            "freq_lex": 5766,
+            "freq_occ": 291,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "הִגְדִּ֑יל ",
+                "הִגְדִּיל",
+                "הגדיל",
+                "הגדיל"
+            ],
+            "gloss": "be strong",
+            "freq_lex": 117,
+            "freq_occ": 16,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "nif",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אֶסָּתֵ֥ר ",
+                "אֶסָּתֵר",
+                "אסתר",
+                "אסתר"
+            ],
+            "gloss": "hide",
+            "freq_lex": 81,
+            "freq_occ": 60,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275513",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מִמֶּֽנּוּ׃",
+                "מִמֶּנּוּ",
+                "ממנו",
+                "ממנו"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 174,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "14": [
+        {
+            "book_chapter_verse": "275514",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275514",
+            "pos_tag": {
+                "pdp": "prps"
+            },
+            "word_forms": [
+                "אַתָּ֣ה ",
+                "אַתָּה",
+                "אתה",
+                "אתה"
+            ],
+            "gloss": "you",
+            "freq_lex": 747,
+            "freq_occ": 864,
+            "language_status": "none",
+            "mitchel": "1C"
+        },
+        {
+            "book_chapter_verse": "275514",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֱנֹ֣ושׁ ",
+                "אֱנֹושׁ",
+                "אנוש",
+                "אנושׁ"
+            ],
+            "gloss": "man",
+            "freq_lex": 42,
+            "freq_occ": 54,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275514",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "כְּ",
+                "כְּ",
+                "כ",
+                "כ"
+            ],
+            "gloss": "as",
+            "freq_lex": 2902,
+            "freq_occ": 2878,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275514",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "עֶרְכִּ֑י ",
+                "עֶרְכִּי",
+                "ערכי",
+                "ערכי"
+            ],
+            "gloss": "arrangement",
+            "freq_lex": 33,
+            "freq_occ": 4,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275514",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "אַ֝לּוּפִ֗י ",
+                "אַלּוּפִי",
+                "אלופי",
+                "אלופי"
+            ],
+            "gloss": "familiar",
+            "freq_lex": 9,
+            "freq_occ": 13,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275514",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וּ",
+                "וּ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275514",
+            "pos_tag": {
+                "pdp": "subs",
+                "vt": "ptcp",
+                "vs": "pual",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "מְיֻדָּֽעִי׃",
+                "מְיֻדָּעִי",
+                "מידעי",
+                "מידעי"
+            ],
+            "gloss": "know",
+            "freq_lex": 944,
+            "freq_occ": 5,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "15": [
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "אֲשֶׁ֣ר ",
+                "אֲשֶׁר",
+                "אשר",
+                "אשׁר"
+            ],
+            "gloss": "<relative>",
+            "freq_lex": 5500,
+            "freq_occ": 5547,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "advb"
+            },
+            "word_forms": [
+                "יַ֭חְדָּו ",
+                "יַחְדָּו",
+                "יחדו",
+                "יחדו"
+            ],
+            "gloss": "together",
+            "freq_lex": 96,
+            "freq_occ": 93,
+            "language_status": "none",
+            "mitchel": "3D"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "unknown",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "נַמְתִּ֣יק ",
+                "נַמְתִּיק",
+                "נמתיק",
+                "נמתיק"
+            ],
+            "gloss": "be sweet",
+            "freq_lex": 6,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "סֹ֑וד ",
+                "סֹוד",
+                "סוד",
+                "סוד"
+            ],
+            "gloss": "confidential talk",
+            "freq_lex": 21,
+            "freq_occ": 16,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְּ",
+                "בְּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "c"
+            },
+            "word_forms": [
+                "בֵ֥ית ",
+                "בֵית",
+                "בית",
+                "בית"
+            ],
+            "gloss": "house",
+            "freq_lex": 2063,
+            "freq_occ": 1595,
+            "language_status": "none",
+            "mitchel": "1B"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֱ֝לֹהִ֗ים ",
+                "אֱלֹהִים",
+                "אלהים",
+                "אלהים"
+            ],
+            "gloss": "god(s)",
+            "freq_lex": 2601,
+            "freq_occ": 1177,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "piel",
+                "gn": "unknown",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "נְהַלֵּ֥ךְ ",
+                "נְהַלֵּךְ",
+                "נהלך",
+                "נהלך"
+            ],
+            "gloss": "walk",
+            "freq_lex": 1547,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְּ",
+                "בְּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275515",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "רָֽגֶשׁ׃",
+                "רָגֶשׁ",
+                "רגש",
+                "רגשׁ"
+            ],
+            "gloss": "turmoil",
+            "freq_lex": 1,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "16": [
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יַשִּׁ֤י",
+                "יַשִּׁי",
+                "ישי",
+                "ישׁי"
+            ],
+            "gloss": "beguile",
+            "freq_lex": 16,
+            "freq_occ": 42,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מָ֨וֶת׀ ",
+                "מָוֶת",
+                "מות",
+                "מות"
+            ],
+            "gloss": "death",
+            "freq_lex": 161,
+            "freq_occ": 199,
+            "language_status": "none",
+            "mitchel": "1C"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "עָלֵ֗ימֹו ",
+                "עָלֵימֹו",
+                "עלימו",
+                "עלימו"
+            ],
+            "gloss": "upon",
+            "freq_lex": 5766,
+            "freq_occ": 12,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "יֵרְד֣וּ ",
+                "יֵרְדוּ",
+                "ירדו",
+                "ירדו"
+            ],
+            "gloss": "descend",
+            "freq_lex": 377,
+            "freq_occ": 52,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "שְׁאֹ֣ול ",
+                "שְׁאֹול",
+                "שאול",
+                "שׁאול"
+            ],
+            "gloss": "nether world",
+            "freq_lex": 65,
+            "freq_occ": 471,
+            "language_status": "none",
+            "mitchel": "2A"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "adjv",
+                "gn": "m",
+                "nu": "pl",
+                "st": "a"
+            },
+            "word_forms": [
+                "חַיִּ֑ים ",
+                "חַיִּים",
+                "חיים",
+                "חיים"
+            ],
+            "gloss": "alive",
+            "freq_lex": 239,
+            "freq_occ": 130,
+            "language_status": "none",
+            "mitchel": "2B"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "כִּֽי־",
+                "כִּי",
+                "כי",
+                "כי"
+            ],
+            "gloss": "that",
+            "freq_lex": 4483,
+            "freq_occ": 4484,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "רָעֹ֖ות ",
+                "רָעֹות",
+                "רעות",
+                "רעות"
+            ],
+            "gloss": "evil",
+            "freq_lex": 313,
+            "freq_occ": 46,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בִּ",
+                "בִּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מְגוּרָ֣ם ",
+                "מְגוּרָם",
+                "מגורם",
+                "מגורם"
+            ],
+            "gloss": "<uncertain>",
+            "freq_lex": 1,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְּ",
+                "בְּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275516",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "pl",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "קִרְבָּֽם׃",
+                "קִרְבָּם",
+                "קרבם",
+                "קרבם"
+            ],
+            "gloss": "interior",
+            "freq_lex": 227,
+            "freq_occ": 10,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "17": [
+        {
+            "book_chapter_verse": "275517",
+            "pos_tag": {
+                "pdp": "prps"
+            },
+            "word_forms": [
+                "אֲ֭נִי ",
+                "אֲנִי",
+                "אני",
+                "אני"
+            ],
+            "gloss": "i",
+            "freq_lex": 874,
+            "freq_occ": 882,
+            "language_status": "none",
+            "mitchel": "1B"
+        },
+        {
+            "book_chapter_verse": "275517",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "אֶל־",
+                "אֶל",
+                "אל",
+                "אל"
+            ],
+            "gloss": "to",
+            "freq_lex": 5517,
+            "freq_occ": 4839,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275517",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֱלֹהִ֣ים ",
+                "אֱלֹהִים",
+                "אלהים",
+                "אלהים"
+            ],
+            "gloss": "god(s)",
+            "freq_lex": 2601,
+            "freq_occ": 1177,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275517",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אֶקְרָ֑א ",
+                "אֶקְרָא",
+                "אקרא",
+                "אקרא"
+            ],
+            "gloss": "call",
+            "freq_lex": 732,
+            "freq_occ": 36,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275517",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וַ֝",
+                "וַ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275517",
+            "pos_tag": {
+                "pdp": "nmpr",
+                "st": "a"
+            },
+            "word_forms": [
+                "יהוָ֗ה ",
+                "יהוָה",
+                "יהוה",
+                "יהוה"
+            ],
+            "gloss": "YHWH",
+            "freq_lex": 6828,
+            "freq_occ": 6828,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275517",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יֹושִׁיעֵֽנִי׃",
+                "יֹושִׁיעֵנִי",
+                "יושיעני",
+                "יושׁיעני"
+            ],
+            "gloss": "help",
+            "freq_lex": 205,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "18": [
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "עֶ֤רֶב ",
+                "עֶרֶב",
+                "ערב",
+                "ערב"
+            ],
+            "gloss": "evening",
+            "freq_lex": 134,
+            "freq_occ": 174,
+            "language_status": "padv",
+            "mitchel": "3D"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וָ",
+                "וָ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "בֹ֣קֶר ",
+                "בֹקֶר",
+                "בקר",
+                "בקר"
+            ],
+            "gloss": "morning",
+            "freq_lex": 214,
+            "freq_occ": 372,
+            "language_status": "padv",
+            "mitchel": "2E"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ֭",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "צָהֳרַיִם ",
+                "צָהֳרַיִם",
+                "צהרים",
+                "צהרים"
+            ],
+            "gloss": "noon",
+            "freq_lex": 23,
+            "freq_occ": 23,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אָשִׂ֣יחָה ",
+                "אָשִׂיחָה",
+                "אשיחה",
+                "אשׂיחה"
+            ],
+            "gloss": "be concerned with",
+            "freq_lex": 20,
+            "freq_occ": 9,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אֶהֱמֶ֑ה ",
+                "אֶהֱמֶה",
+                "אהמה",
+                "אהמה"
+            ],
+            "gloss": "make noise",
+            "freq_lex": 34,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וַ",
+                "וַ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "wayq",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יִּשְׁמַ֥ע ",
+                "יִּשְׁמַע",
+                "ישמע",
+                "ישׁמע"
+            ],
+            "gloss": "hear",
+            "freq_lex": 1159,
+            "freq_occ": 137,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275518",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "קֹולִֽי׃",
+                "קֹולִי",
+                "קולי",
+                "קולי"
+            ],
+            "gloss": "sound",
+            "freq_lex": 505,
+            "freq_occ": 37,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "19": [
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "פָּ֘דָ֤ה ",
+                "פָּדָה",
+                "פדה",
+                "פדה"
+            ],
+            "gloss": "buy off",
+            "freq_lex": 58,
+            "freq_occ": 10,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְ",
+                "בְ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "שָׁלֹ֣ום ",
+                "שָׁלֹום",
+                "שלום",
+                "שׁלום"
+            ],
+            "gloss": "peace",
+            "freq_lex": 237,
+            "freq_occ": 233,
+            "language_status": "none",
+            "mitchel": "2D"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "unknown",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p1"
+            },
+            "word_forms": [
+                "נַ֭פְשִׁי ",
+                "נַפְשִׁי",
+                "נפשי",
+                "נפשׁי"
+            ],
+            "gloss": "soul",
+            "freq_lex": 754,
+            "freq_occ": 192,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מִ",
+                "מִ",
+                "מ",
+                "מ"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 6236,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "קֲּרָב־",
+                "קֲּרָב",
+                "קרב",
+                "קרב"
+            ],
+            "gloss": "fight",
+            "freq_lex": 9,
+            "freq_occ": 125,
+            "language_status": "none",
+            "mitchel": "2C"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לִ֑י ",
+                "לִי",
+                "לי",
+                "לי"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 752,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "כִּֽי־",
+                "כִּי",
+                "כי",
+                "כי"
+            ],
+            "gloss": "that",
+            "freq_lex": 4483,
+            "freq_occ": 4484,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בְ֝",
+                "בְ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "רַבִּ֗ים ",
+                "רַבִּים",
+                "רבים",
+                "רבים"
+            ],
+            "gloss": "much",
+            "freq_lex": 424,
+            "freq_occ": 201,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "הָי֥וּ ",
+                "הָיוּ",
+                "היו",
+                "היו"
+            ],
+            "gloss": "be",
+            "freq_lex": 3561,
+            "freq_occ": 287,
+            "language_status": "vbcp",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275519",
+            "pos_tag": {
+                "pdp": "prep",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a"
+            },
+            "word_forms": [
+                "עִמָּדִֽי׃",
+                "עִמָּדִי",
+                "עמדי",
+                "עמדי"
+            ],
+            "gloss": "company",
+            "freq_lex": 45,
+            "freq_occ": 53,
+            "language_status": "ppre",
+            "mitchel": "99"
+        }
+    ],
+    "20": [
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יִשְׁמַ֤ע׀ ",
+                "יִשְׁמַע",
+                "ישמע",
+                "ישׁמע"
+            ],
+            "gloss": "hear",
+            "freq_lex": 1159,
+            "freq_occ": 137,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֵ֨ל׀ ",
+                "אֵל",
+                "אל",
+                "אל"
+            ],
+            "gloss": "god",
+            "freq_lex": 235,
+            "freq_occ": 4839,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְֽ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יַעֲנֵם֮ ",
+                "יַעֲנֵם",
+                "יענם",
+                "יענם"
+            ],
+            "gloss": "be lowly",
+            "freq_lex": 79,
+            "freq_occ": 4,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "ptca",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a"
+            },
+            "word_forms": [
+                "יֹ֤שֵׁ֥ב  ",
+                "יֹשֵׁב",
+                "ישב",
+                "ישׁב"
+            ],
+            "gloss": "sit",
+            "freq_lex": 1082,
+            "freq_occ": 382,
+            "language_status": "none",
+            "mitchel": "1B"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "advb",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a"
+            },
+            "word_forms": [
+                "קֶ֗דֶם ",
+                "קֶדֶם",
+                "קדם",
+                "קדם"
+            ],
+            "gloss": "front",
+            "freq_lex": 87,
+            "freq_occ": 60,
+            "language_status": "padv",
+            "mitchel": "4B"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "intj"
+            },
+            "word_forms": [
+                "סֶ֥לָה ",
+                "סֶלָה",
+                "סלה",
+                "סלה"
+            ],
+            "gloss": "sela",
+            "freq_lex": 74,
+            "freq_occ": 75,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "אֲשֶׁ֤ר ",
+                "אֲשֶׁר",
+                "אשר",
+                "אשׁר"
+            ],
+            "gloss": "<relative>",
+            "freq_lex": 5500,
+            "freq_occ": 5547,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "nega",
+                "gn": "m",
+                "nu": "sg",
+                "st": "c"
+            },
+            "word_forms": [
+                "אֵ֣ין ",
+                "אֵין",
+                "אין",
+                "אין"
+            ],
+            "gloss": "<NEG>",
+            "freq_lex": 788,
+            "freq_occ": 703,
+            "language_status": "nmcp",
+            "mitchel": "1C"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "חֲלִיפֹ֣ות ",
+                "חֲלִיפֹות",
+                "חליפות",
+                "חליפות"
+            ],
+            "gloss": "substitute",
+            "freq_lex": 12,
+            "freq_occ": 6,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לָ֑מֹו ",
+                "לָמֹו",
+                "למו",
+                "למו"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 59,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "nega"
+            },
+            "word_forms": [
+                "לֹ֖א ",
+                "לֹא",
+                "לא",
+                "לא"
+            ],
+            "gloss": "not",
+            "freq_lex": 5167,
+            "freq_occ": 4996,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "יָרְא֣וּ ",
+                "יָרְאוּ",
+                "יראו",
+                "יראו"
+            ],
+            "gloss": "fear",
+            "freq_lex": 332,
+            "freq_occ": 105,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275520",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֱלֹהִֽים׃",
+                "אֱלֹהִים",
+                "אלהים",
+                "אלהים"
+            ],
+            "gloss": "god(s)",
+            "freq_lex": 2601,
+            "freq_occ": 1177,
+            "language_status": "none",
+            "mitchel": "1A"
+        }
+    ],
+    "21": [
+        {
+            "book_chapter_verse": "275521",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "שָׁלַ֣ח ",
+                "שָׁלַח",
+                "שלח",
+                "שׁלח"
+            ],
+            "gloss": "send",
+            "freq_lex": 847,
+            "freq_occ": 200,
+            "language_status": "none",
+            "mitchel": "1C"
+        },
+        {
+            "book_chapter_verse": "275521",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "יָ֭דָיו ",
+                "יָדָיו",
+                "ידיו",
+                "ידיו"
+            ],
+            "gloss": "hand",
+            "freq_lex": 1618,
+            "freq_occ": 46,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275521",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בִּ",
+                "בִּ",
+                "ב",
+                "ב"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 14194,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275521",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "שְׁלֹמָ֗יו ",
+                "שְׁלֹמָיו",
+                "שלמיו",
+                "שׁלמיו"
+            ],
+            "gloss": "peace",
+            "freq_lex": 237,
+            "freq_occ": 8,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275521",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "piel",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "חִלֵּ֥ל ",
+                "חִלֵּל",
+                "חלל",
+                "חלל"
+            ],
+            "gloss": "defile",
+            "freq_lex": 134,
+            "freq_occ": 39,
+            "language_status": "none",
+            "mitchel": "3D"
+        },
+        {
+            "book_chapter_verse": "275521",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "בְּרִיתֹֽו׃",
+                "בְּרִיתֹו",
+                "בריתו",
+                "בריתו"
+            ],
+            "gloss": "covenant",
+            "freq_lex": 284,
+            "freq_occ": 19,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "22": [
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "חָלְק֤וּ׀ ",
+                "חָלְקוּ",
+                "חלקו",
+                "חלקו"
+            ],
+            "gloss": "be smooth",
+            "freq_lex": 9,
+            "freq_occ": 10,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "c"
+            },
+            "word_forms": [
+                "מַחְמָאֹ֣ת ",
+                "מַחְמָאֹת",
+                "מחמאת",
+                "מחמאת"
+            ],
+            "gloss": "<uncertain>",
+            "freq_lex": 1,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "פִּיו֮ ",
+                "פִּיו",
+                "פיו",
+                "פיו"
+            ],
+            "gloss": "mouth",
+            "freq_lex": 498,
+            "freq_occ": 55,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וּֽ",
+                "וּ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "קֲרָב־",
+                "קֲרָב",
+                "קרב",
+                "קרב"
+            ],
+            "gloss": "fight",
+            "freq_lex": 9,
+            "freq_occ": 125,
+            "language_status": "none",
+            "mitchel": "2C"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "לִ֫בֹּ֥ו ",
+                "לִבֹּו",
+                "לבו",
+                "לבו"
+            ],
+            "gloss": "heart",
+            "freq_lex": 601,
+            "freq_occ": 94,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "perf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "רַכּ֖וּ ",
+                "רַכּוּ",
+                "רכו",
+                "רכו"
+            ],
+            "gloss": "be tender",
+            "freq_lex": 8,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "דְבָרָ֥יו ",
+                "דְבָרָיו",
+                "דבריו",
+                "דבריו"
+            ],
+            "gloss": "word",
+            "freq_lex": 1441,
+            "freq_occ": 28,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "מִ",
+                "מִ",
+                "מ",
+                "מ"
+            ],
+            "gloss": "from",
+            "freq_lex": 7562,
+            "freq_occ": 6236,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "שֶּׁ֗מֶן ",
+                "שֶּׁמֶן",
+                "שמן",
+                "שׁמן"
+            ],
+            "gloss": "oil",
+            "freq_lex": 191,
+            "freq_occ": 184,
+            "language_status": "none",
+            "mitchel": "3A"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "prps"
+            },
+            "word_forms": [
+                "הֵ֣מָּה ",
+                "הֵמָּה",
+                "המה",
+                "המה"
+            ],
+            "gloss": "they",
+            "freq_lex": 291,
+            "freq_occ": 292,
+            "language_status": "none",
+            "mitchel": "1B"
+        },
+        {
+            "book_chapter_verse": "275522",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "פְתִחֹֽות׃",
+                "פְתִחֹות",
+                "פתחות",
+                "פתחות"
+            ],
+            "gloss": "dagger",
+            "freq_lex": 1,
+            "freq_occ": 6,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ],
+    "23": [
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impv",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "הַשְׁלֵ֤ךְ ",
+                "הַשְׁלֵךְ",
+                "השלך",
+                "השׁלך"
+            ],
+            "gloss": "throw",
+            "freq_lex": 125,
+            "freq_occ": 5,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "עַל־",
+                "עַל",
+                "על",
+                "על"
+            ],
+            "gloss": "upon",
+            "freq_lex": 5766,
+            "freq_occ": 4237,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "nmpr",
+                "st": "a"
+            },
+            "word_forms": [
+                "יְהוָ֨ה׀ ",
+                "יְהוָה",
+                "יהוה",
+                "יהוה"
+            ],
+            "gloss": "YHWH",
+            "freq_lex": 6828,
+            "freq_occ": 6828,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "sg",
+                "st": "a",
+                "ps": "p2"
+            },
+            "word_forms": [
+                "יְהָבְךָ֮ ",
+                "יְהָבְךָ",
+                "יהבך",
+                "יהבך"
+            ],
+            "gloss": "<uncertain>",
+            "freq_lex": 1,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "prps"
+            },
+            "word_forms": [
+                "ה֪וּא ",
+                "הוּא",
+                "הוא",
+                "הוא"
+            ],
+            "gloss": "he",
+            "freq_lex": 1394,
+            "freq_occ": 1586,
+            "language_status": "none",
+            "mitchel": "1B"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "piel",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יְכַ֫לְכְּלֶ֥ךָ ",
+                "יְכַלְכְּלֶךָ",
+                "יכלכלך",
+                "יכלכלך"
+            ],
+            "gloss": "comprehend",
+            "freq_lex": 38,
+            "freq_occ": 1,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "nega"
+            },
+            "word_forms": [
+                "לֹא־",
+                "לֹא",
+                "לא",
+                "לא"
+            ],
+            "gloss": "not",
+            "freq_lex": 5167,
+            "freq_occ": 4996,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "יִתֵּ֖ן ",
+                "יִתֵּן",
+                "יתן",
+                "יתן"
+            ],
+            "gloss": "give",
+            "freq_lex": 2010,
+            "freq_occ": 323,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לְ",
+                "לְ",
+                "ל",
+                "ל"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 15641,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "עֹולָ֥ם ",
+                "עֹולָם",
+                "עולם",
+                "עולם"
+            ],
+            "gloss": "eternity",
+            "freq_lex": 438,
+            "freq_occ": 405,
+            "language_status": "none",
+            "mitchel": "2A"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מֹ֗וט ",
+                "מֹוט",
+                "מוט",
+                "מוט"
+            ],
+            "gloss": "bar",
+            "freq_lex": 7,
+            "freq_occ": 9,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לַ",
+                "לַ",
+                "ל",
+                "ל"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 15641,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "art"
+            },
+            "word_forms": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "gloss": "the",
+            "freq_lex": 30386,
+            "freq_occ": 6487,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275523",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "צַּדִּֽיק׃",
+                "צַּדִּיק",
+                "צדיק",
+                "צדיק"
+            ],
+            "gloss": "just",
+            "freq_lex": 206,
+            "freq_occ": 146,
+            "language_status": "none",
+            "mitchel": "2E"
+        }
+    ],
+    "24": [
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וְ",
+                "וְ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "prps"
+            },
+            "word_forms": [
+                "אַתָּ֤ה ",
+                "אַתָּה",
+                "אתה",
+                "אתה"
+            ],
+            "gloss": "you",
+            "freq_lex": 747,
+            "freq_occ": 864,
+            "language_status": "none",
+            "mitchel": "1C"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "אֱלֹהִ֨ים׀ ",
+                "אֱלֹהִים",
+                "אלהים",
+                "אלהים"
+            ],
+            "gloss": "god(s)",
+            "freq_lex": 2601,
+            "freq_occ": 1177,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "hif",
+                "gn": "m",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "תֹּורִדֵ֬ם׀ ",
+                "תֹּורִדֵם",
+                "תורדם",
+                "תורדם"
+            ],
+            "gloss": "descend",
+            "freq_lex": 377,
+            "freq_occ": 2,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "לִ",
+                "לִ",
+                "ל",
+                "ל"
+            ],
+            "gloss": "to",
+            "freq_lex": 20069,
+            "freq_occ": 15641,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "c"
+            },
+            "word_forms": [
+                "בְאֵ֬ר ",
+                "בְאֵר",
+                "באר",
+                "באר"
+            ],
+            "gloss": "well",
+            "freq_lex": 74,
+            "freq_occ": 74,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "שַׁ֗חַת ",
+                "שַׁחַת",
+                "שחת",
+                "שׁחת"
+            ],
+            "gloss": "pit",
+            "freq_lex": 23,
+            "freq_occ": 44,
+            "language_status": "none",
+            "mitchel": "3B"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "c"
+            },
+            "word_forms": [
+                "אַנְשֵׁ֤י ",
+                "אַנְשֵׁי",
+                "אנשי",
+                "אנשׁי"
+            ],
+            "gloss": "man",
+            "freq_lex": 2186,
+            "freq_occ": 203,
+            "language_status": "nmdi",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "דָמִ֣ים ",
+                "דָמִים",
+                "דמים",
+                "דמים"
+            ],
+            "gloss": "blood",
+            "freq_lex": 360,
+            "freq_occ": 36,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וּ֭",
+                "וּ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "subs",
+                "st": "a"
+            },
+            "word_forms": [
+                "מִרְמָה ",
+                "מִרְמָה",
+                "מרמה",
+                "מרמה"
+            ],
+            "gloss": "deceit",
+            "freq_lex": 39,
+            "freq_occ": 37,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "nega"
+            },
+            "word_forms": [
+                "לֹא־",
+                "לֹא",
+                "לא",
+                "לא"
+            ],
+            "gloss": "not",
+            "freq_lex": 5167,
+            "freq_occ": 4996,
+            "language_status": "none",
+            "mitchel": "1A"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "m",
+                "nu": "pl"
+            },
+            "word_forms": [
+                "יֶחֱצ֣וּ ",
+                "יֶחֱצוּ",
+                "יחצו",
+                "יחצו"
+            ],
+            "gloss": "divide",
+            "freq_lex": 15,
+            "freq_occ": 4,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "subs",
+                "gn": "m",
+                "nu": "pl",
+                "st": "a",
+                "ps": "p3"
+            },
+            "word_forms": [
+                "יְמֵיהֶ֑ם ",
+                "יְמֵיהֶם",
+                "ימיהם",
+                "ימיהם"
+            ],
+            "gloss": "day",
+            "freq_lex": 2304,
+            "freq_occ": 7,
+            "language_status": "padv",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "conj"
+            },
+            "word_forms": [
+                "וַ֝",
+                "וַ",
+                "ו",
+                "ו"
+            ],
+            "gloss": "and",
+            "freq_lex": 50272,
+            "freq_occ": 50238,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "prps"
+            },
+            "word_forms": [
+                "אֲנִ֗י ",
+                "אֲנִי",
+                "אני",
+                "אני"
+            ],
+            "gloss": "i",
+            "freq_lex": 874,
+            "freq_occ": 882,
+            "language_status": "none",
+            "mitchel": "1B"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "verb",
+                "vt": "impf",
+                "vs": "qal",
+                "gn": "unknown",
+                "nu": "sg"
+            },
+            "word_forms": [
+                "אֶבְטַח־",
+                "אֶבְטַח",
+                "אבטח",
+                "אבטח"
+            ],
+            "gloss": "trust",
+            "freq_lex": 118,
+            "freq_occ": 5,
+            "language_status": "none",
+            "mitchel": "99"
+        },
+        {
+            "book_chapter_verse": "275524",
+            "pos_tag": {
+                "pdp": "prep"
+            },
+            "word_forms": [
+                "בָּֽךְ׃",
+                "בָּךְ",
+                "בך",
+                "בך"
+            ],
+            "gloss": "in",
+            "freq_lex": 15542,
+            "freq_occ": 164,
+            "language_status": "none",
+            "mitchel": "99"
+        }
+    ]
+}
