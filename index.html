@@ -4,12 +4,24 @@
     <meta charset="UTF-8">
     <title>Hebrew Word Frequency</title>
     <style>
+        @font-face {
+            font-family: 'SBL Hebrew';
+            src: url('fonts/SBL_Hbrw.ttf') format('truetype');
+        }
+
         body {
             font-family: Arial, sans-serif;
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
             background-color: #f5f5f5;
+        }
+
+        /* Hebrew text elements */
+        .root-header b,
+        .form {
+            font-family: 'SBL Hebrew', Arial, sans-serif;
+            font-size: 1.4em; /* Slightly larger for better Hebrew readability */
         }
 
         h1 {
