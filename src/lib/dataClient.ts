@@ -9,7 +9,8 @@ export async function loadCatalog(): Promise<Catalog> {
     return catalogCache;
   }
 
-  const response = await fetch('./data/catalog.json');
+  const baseUrl = import.meta.env.BASE_URL;
+  const response = await fetch(`${baseUrl}data/catalog.json`);
   if (!response.ok) {
     throw new Error('Unable to load catalog data.');
   }
@@ -24,7 +25,8 @@ export async function loadBookArtifact(bookId: string): Promise<BookArtifact> {
     return bookCache.get(bookId) as BookArtifact;
   }
 
-  const response = await fetch(`./data/books/${bookId}.json`);
+  const baseUrl = import.meta.env.BASE_URL;
+  const response = await fetch(`${baseUrl}data/books/${bookId}.json`);
   if (!response.ok) {
     throw new Error(`Unable to load data for book '${bookId}'.`);
   }
