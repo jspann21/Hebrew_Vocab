@@ -1,0 +1,50 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+npm-debug.log
+yarn-error.log
+
+# Backup files
+*.bak
+*.old
+*.tmp
+
+# Logs
+*.log
+
+# Source data (not needed for deploy; public/data is pre-built)
+bhsa_json/
+HebrewStrong.xml
+BrownDriverBriggs.xml
+Entire Hebrew OT Vocab*.txt
+
+# Build scripts and data prep (not needed for deploy)
+create.py
+
+# Reports and misc docs
+reports/
+vocab_process.md
+IMPLEMENTATION_SUMMARY.md
+TESTING_GUIDE.md
+UPDATES.md
+
+# Legacy artifacts (unused by current app)
+metadata.json
+script.js
