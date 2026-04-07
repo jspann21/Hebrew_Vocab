@@ -7,7 +7,7 @@ export default defineConfig({
   retries: process.env.CI ? 2 : 0,
   reporter: process.env.CI ? 'github' : 'list',
   use: {
-    baseURL: 'http://127.0.0.1:4173',
+    baseURL: 'http://127.0.0.1:4173/Hebrew_Vocab/',
     trace: 'on-first-retry',
   },
   projects: [
@@ -17,8 +17,9 @@ export default defineConfig({
     },
   ],
   webServer: {
-    command: 'pnpm dev -- --host 127.0.0.1 --port 4173',
+    command: 'pnpm preview -- --host 127.0.0.1 --port 4173 --strictPort',
     port: 4173,
     reuseExistingServer: !process.env.CI,
+    timeout: 120_000,
   },
 });
