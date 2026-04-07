@@ -15,7 +15,7 @@ Canonical source is `bhsa_json/`.
 Generate precomputed artifacts:
 
 ```bash
-npm run build:data
+pnpm build:data
 ```
 
 This creates:
@@ -24,11 +24,11 @@ This creates:
 
 ## App Commands
 ```bash
-npm install
-npm run dev
-npm run build
-npm run test:run
-npm run test:e2e
+pnpm install
+pnpm dev
+pnpm build
+pnpm test
+pnpm test:e2e
 ```
 
 ## Query URL Contract

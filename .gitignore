@@ -19,6 +19,7 @@ coverage/
 playwright-report/
 test-results/
 npm-debug.log
+pnpm-debug.log
 yarn-error.log
 
 # Backup files
