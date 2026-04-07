@@ -6,7 +6,6 @@ Modern static app for Hebrew OT vocabulary frequency by chapter range.
 - React 19 + TypeScript + Vite
 - Zod runtime schema validation
 - Vitest unit tests
-- Playwright e2e smoke test
 - GitHub Pages workflows
 
 ## Data Build
@@ -28,7 +27,6 @@ pnpm install
 pnpm dev
 pnpm build
 pnpm test
-pnpm test:e2e
 ```
 
 ## Query URL Contract
