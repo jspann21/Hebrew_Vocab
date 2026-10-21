@@ -5,7 +5,7 @@ export default defineConfig({
   base: '/Hebrew_Vocab/',
   plugins: [react()],
   test: {
-    environment: 'jsdom',
+    environment: 'node',
     include: ['src/**/*.test.ts', 'src/**/*.test.tsx', 'scripts/**/*.test.ts'],
     coverage: {
       reporter: ['text', 'html'],

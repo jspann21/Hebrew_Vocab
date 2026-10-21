@@ -29,6 +29,10 @@ pnpm build
 pnpm test
 ```
 
+The tests run in Node and do not require a DOM emulator. Security overrides live
+in `pnpm-workspace.yaml`; keep them there so a second configuration cannot shadow
+them. CI audits all dependencies, including development tools, at every severity.
+
 ## Query URL Contract
 `?book={bookId}&from={n}&to={n}&fn={0|1}`
 
